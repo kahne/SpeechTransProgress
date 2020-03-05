@@ -11,7 +11,7 @@ End-to-End Speech Translation Progress
 | [Augmented Librispeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | 236h | CC BY 4.0 |
 | [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {Fr, De, Es, En} -> {Fr, De, Es, En} | 200h | CC BY-NC 4.0 |
 | [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf) | De -> En | 110h | CC BY-NC-SA 4.0 |
-| [Fisher and Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | En -> Es | 38h | LDC |
+| [Fisher and Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | Es -> En | 38h | LDC |
 
 ### 2020
 - [LREC] [CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus](https://arxiv.org/pdf/2002.01320.pdf)
