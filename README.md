@@ -6,7 +6,7 @@ End-to-End Speech Translation Progress
 | Corpus | Languages | Duration | License |
 | ------------- |:-------------:| -----:| ----:|
 | [CoVoST](https://arxiv.org/pdf/2002.01320.pdf) | {Fr, De, Nl, Ru, Es, It, Tr, Fa, Sv, Mn, Zh} -> En | 700h | CC0 |
-| [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru} | 400h | CC BY-NC-ND 4.0 |
+| [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru} | 400h | CC BY-NC-ND 4.0 |
 | [How2](https://arxiv.org/pdf/1811.00347.pdf) | En -> Pt | 300h | Youtube & CC BY-SA 4.0 |
 | [Augmented Librispeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | 236h | CC BY 4.0 |
 | [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {Fr, De, Es, En} -> {Fr, De, Es, En} | 200h | CC BY-NC 4.0 |
@@ -15,6 +15,7 @@ End-to-End Speech Translation Progress
 
 ### 2020
 - [LREC] [CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus](https://arxiv.org/pdf/2002.01320.pdf)
+- [LREC] [MuST-Cinema: a Speech-to-Subtitles corpus](https://arxiv.org/pdf/2002.10829.pdf)
 - [ICASSP] [Europarl-ST: A Multilingual Corpus For Speech Translation Of Parliamentary Debates](https://arxiv.org/pdf/1911.03167.pdf)
 - [arXiv] [Instance-Based Model Adaptation For Direct Speech Translation](https://arxiv.org/pdf/1910.10663.pdf)
 - [AAAI] [Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation](https://arxiv.org/pdf/1909.07575.pdf)
