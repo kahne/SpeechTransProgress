@@ -1,17 +1,23 @@
-End-to-End Speech Translation Progress
+End-to-End Speech-to-Text/Speech Translation Progress
 ======
 
-## Speech-to-Text
+## Tutorial
+* Interspeech 2019 survey talk: [Spoken Language Translation](https://www.youtube.com/watch?v=beB5L6rsb0I)
+* Blog: [Getting Started with End-to-End Speech Translation](https://towardsdatascience.com/getting-started-with-end-to-end-speech-translation-3634c35a6561)
 
-| Corpus | Languages | Duration | License |
-| ------------- |:-------------:| -----:| ----:|
-| [CoVoST](https://arxiv.org/pdf/2002.01320.pdf) | {Fr, De, Nl, Ru, Es, It, Tr, Fa, Sv, Mn, Zh} -> En | 700h | CC0 |
-| [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru} | 400h | CC BY-NC-ND 4.0 |
-| [How2](https://arxiv.org/pdf/1811.00347.pdf) | En -> Pt | 300h | Youtube & CC BY-SA 4.0 |
-| [Augmented Librispeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | 236h | CC BY 4.0 |
-| [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {Fr, De, Es, En} -> {Fr, De, Es, En} | 200h | CC BY-NC 4.0 |
-| [Fisher + Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | Es -> En | 160h+20h | LDC |
-| [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf) | De -> En | 110h | CC BY-NC-SA 4.0 |
+## Data
+
+| Corpus | Direction | Target | Duration | License |
+| ------ |:-------:|:-----:|:-----:|----:|
+| [CoVoST](https://arxiv.org/pdf/2002.01320.pdf) | {Fr, De, Nl, Ru, Es, It, Tr, Fa, Sv, Mn, Zh} -> En | Text | 700h | CC0 |
+| [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru} | Text | 400h | CC BY-NC-ND 4.0 |
+| [How2](https://arxiv.org/pdf/1811.00347.pdf) | En -> Pt | Text | 300h | Youtube & CC BY-SA 4.0 |
+| [Augmented Librispeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | Text | 236h | CC BY 4.0 |
+| [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {Fr, De, Es, En} -> {Fr, De, Es, En} | Text | 200h | CC BY-NC 4.0 |
+| [Fisher + Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | Es -> En | Text | 160h+20h | LDC |
+| [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf) | De -> En | Text | 110h | CC BY-NC-SA 4.0 |
+
+## Paper
 
 ### 2020
 - [LREC] [CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus](https://arxiv.org/pdf/2002.01320.pdf)
@@ -27,10 +33,12 @@ End-to-End Speech Translation Progress
 - [arXiv] [One-To-Many Multilingual End-to-end Speech Translation](https://arxiv.org/pdf/1910.03320.pdf)
 - [arXiv] [Multilingual End-to-End Speech Translation](https://arxiv.org/pdf/1910.00254.pdf)
 - [arXiv] [Analyzing ASR pretraining for low-resource speech-to-text translation](https://arxiv.org/pdf/1910.10762.pdf)
+- [ASRU] [Speech-to-speech Translation between Untranscribed Unknown Languages](https://arxiv.org/pdf/1910.00795.pdf)
 - [IWSLT] [Harnessing Indirect Training Data for End-to-End Automatic Speech Translation: Tricks of the Trade](https://arxiv.org/pdf/1909.06515.pdf)
 - [IWSLT] [On Using SpecAugment for End-to-End Speech Translation](https://arxiv.org/pdf/1911.08876.pdf)
 - [Interspeech] [End-to-End Speech Translation with Knowledge Distillation](https://arxiv.org/pdf/1904.08075.pdf)
 - [Interspeech] [Adapting Transformer to End-to-end Spoken Language Translation](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3045.pdf)
+- [Interspeech] [Direct speech-to-speech translation with a sequence-to-sequence model](https://arxiv.org/pdf/1904.06037.pdf)
 - [ACL] [Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation](https://www.aclweb.org/anthology/P19-1179.pdf)
 - [ACL] [Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation](https://arxiv.org/pdf/1904.07209.pdf)
 - [NAACL] [Pre-training on High-Resource Speech Recognition Improves Low-Resource Speech-to-Text Translation](https://www.aclweb.org/anthology/N19-1006.pdf)
@@ -58,11 +66,6 @@ End-to-End Speech Translation Progress
 
 ### 2013
 - [IWSLT] [Improved Speech-to-Text Translation with the Fisher and Callhome Spanish–English Speech Translation Corpus](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf)
-
-## Speech-to-Speech
-### 2019
-- [ASRU] [Speech-to-speech Translation between Untranscribed Unknown Languages](https://arxiv.org/pdf/1910.00795.pdf)
-- [Interspeech] [Direct speech-to-speech translation with a sequence-to-sequence model](https://arxiv.org/pdf/1904.06037.pdf)
 
 
 # Contact
