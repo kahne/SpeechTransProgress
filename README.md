@@ -4,6 +4,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Tutorial
 * Interspeech 2019 survey talk: [Spoken Language Translation](https://www.youtube.com/watch?v=beB5L6rsb0I)
 * Blog: [Getting Started with End-to-End Speech Translation](https://towardsdatascience.com/getting-started-with-end-to-end-speech-translation-3634c35a6561)
+* ACL 2020 Theme paper: [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
 
 ## Data
 
@@ -13,13 +14,14 @@ End-to-End Speech-to-Text/Speech Translation Progress
 | [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru} | Text | 400h | CC BY-NC-ND 4.0 |
 | [How2](https://arxiv.org/pdf/1811.00347.pdf) | En -> Pt | Text | 300h | Youtube & CC BY-SA 4.0 |
 | [Augmented Librispeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | Text | 236h | CC BY 4.0 |
-| [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {Fr, De, Es, En} -> {Fr, De, Es, En} | Text | 200h | CC BY-NC 4.0 |
+| [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {En, Fr, De, Es, It, Pt} -> {En, Fr, De, Es, It, Pt} | Text | 200h | CC BY-NC 4.0 |
 | [Fisher + Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | Es -> En | Text | 160h+20h | LDC |
 | [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf) | De -> En | Text | 110h | CC BY-NC-SA 4.0 |
 
 ## Paper
 
 ### 2020
+- [ACL Theme] [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
 - [LREC] [CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus](https://arxiv.org/pdf/2002.01320.pdf)
 - [LREC] [MuST-Cinema: a Speech-to-Subtitles corpus](https://arxiv.org/pdf/2002.10829.pdf)
 - [ICASSP] [Europarl-ST: A Multilingual Corpus For Speech Translation Of Parliamentary Debates](https://arxiv.org/pdf/1911.03167.pdf)
