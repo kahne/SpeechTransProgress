@@ -28,15 +28,16 @@ End-to-End Speech-to-Text/Speech Translation Progress
 - [LREC] [MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible](https://arxiv.org/pdf/1907.12895.pdf)
 - [ICASSP] [Europarl-ST: A Multilingual Corpus For Speech Translation Of Parliamentary Debates](https://arxiv.org/pdf/1911.03167.pdf)
 - [ICASSP] [Instance-Based Model Adaptation For Direct Speech Translation](https://arxiv.org/pdf/1910.10663.pdf)
+- [ICASSP] [Data Efficient Direct Speech-to-Text Translation with Modality Agnostic Meta-Learning](https://arxiv.org/pdf/1911.04283.pdf)
+- [ICASSP] [Analyzing ASR pretraining for low-resource speech-to-text translation](https://arxiv.org/pdf/1910.10762.pdf)
+- [ICASSP] [End-to-End Speech Translation with Self-Contained Vocabulary Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053431)
 - [AAAI] [Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation](https://arxiv.org/pdf/1909.07575.pdf)
 - [AAAI] [Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding](https://arxiv.org/pdf/1912.07240.pdf)
 
 ### 2019
 - [arXiv] [LibriVoxDeEn: A Corpus for German-to-English Speech Translation and Speech Recognition](https://arxiv.org/pdf/1910.07924.pdf)
-- [arXiv] [Data Efficient Direct Speech-to-Text Translation with Modality Agnostic Meta-Learning](https://arxiv.org/pdf/1911.04283.pdf)
 - [arXiv] [One-To-Many Multilingual End-to-end Speech Translation](https://arxiv.org/pdf/1910.03320.pdf)
 - [arXiv] [Multilingual End-to-End Speech Translation](https://arxiv.org/pdf/1910.00254.pdf)
-- [arXiv] [Analyzing ASR pretraining for low-resource speech-to-text translation](https://arxiv.org/pdf/1910.10762.pdf)
 - [ASRU] [Speech-to-speech Translation between Untranscribed Unknown Languages](https://arxiv.org/pdf/1910.00795.pdf)
 - [IWSLT] [Harnessing Indirect Training Data for End-to-End Automatic Speech Translation: Tricks of the Trade](https://arxiv.org/pdf/1909.06515.pdf)
 - [IWSLT] [On Using SpecAugment for End-to-End Speech Translation](https://arxiv.org/pdf/1911.08876.pdf)
