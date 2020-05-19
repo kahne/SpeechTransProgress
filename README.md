@@ -22,6 +22,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Paper
 
 ### 2020
+- [ACL] [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/pdf/2004.10093.pdf)
 - [ACL Theme] [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
 - [LREC] [CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus](https://arxiv.org/pdf/2002.01320.pdf)
 - [LREC] [MuST-Cinema: a Speech-to-Subtitles corpus](https://arxiv.org/pdf/2002.10829.pdf)
