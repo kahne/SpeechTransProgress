@@ -22,8 +22,13 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Paper
 
 ### 2020
+- [arXiv] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://arxiv.org/pdf/2005.09940.pdf)
+- [arXiv] [Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection](https://arxiv.org/pdf/2005.11185.pdf)
+- [ACL] [Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation](https://arxiv.org/pdf/2005.10678.pdf)
+- [ACL] [Phone Features Improve Speech Translation](https://arxiv.org/pdf/2005.13681.pdf)
 - [ACL] [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/pdf/2004.10093.pdf)
 - [ACL Theme] [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
+- [ACL Demo] [ESPnet-ST: All-in-One Speech Translation Toolkit](https://arxiv.org/pdf/2004.10234.pdf)
 - [LREC] [CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus](https://arxiv.org/pdf/2002.01320.pdf)
 - [LREC] [MuST-Cinema: a Speech-to-Subtitles corpus](https://arxiv.org/pdf/2002.10829.pdf)
 - [LREC] [MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible](https://arxiv.org/pdf/1907.12895.pdf)
