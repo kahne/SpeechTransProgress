@@ -22,6 +22,8 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Paper
 
 ### 2020
+- [arXiv] [Self-Training for End-to-End Speech Translation](https://arxiv.org/pdf/2006.02490.pdf)
+- [arXiv] [Improving Cross-Lingual Transfer Learning for End-to-End Speech Recognition with Speech Translation](https://arxiv.org/pdf/2006.05474.pdf)
 - [arXiv] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://arxiv.org/pdf/2005.09940.pdf)
 - [arXiv] [Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection](https://arxiv.org/pdf/2005.11185.pdf)
 - [ACL] [Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation](https://arxiv.org/pdf/2005.10678.pdf)
