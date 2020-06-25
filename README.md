@@ -22,6 +22,9 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Paper
 
 ### 2020
+- [arXiv] [CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning](https://arxiv.org/pdf/2006.02814.pdf)
+- [arXiv] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
+- [arXiv] [Self-Supervised Representations Improve End-to-End Speech Translation](https://arxiv.org/pdf/2006.12124.pdf)
 - [arXiv] [Self-Training for End-to-End Speech Translation](https://arxiv.org/pdf/2006.02490.pdf)
 - [arXiv] [Improving Cross-Lingual Transfer Learning for End-to-End Speech Recognition with Speech Translation](https://arxiv.org/pdf/2006.05474.pdf)
 - [arXiv] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://arxiv.org/pdf/2005.09940.pdf)
@@ -57,6 +60,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 - [ACL] [Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation](https://arxiv.org/pdf/1904.07209.pdf)
 - [NAACL] [Pre-training on High-Resource Speech Recognition Improves Low-Resource Speech-to-Text Translation](https://www.aclweb.org/anthology/N19-1006.pdf)
 - [NAACL] [MuST-C: a Multilingual Speech Translation Corpus](https://www.aclweb.org/anthology/N19-1202.pdf)
+- [NAACL] [Fluent Translations from Disfluent Speech in End-to-End Speech Translation](https://arxiv.org/pdf/1906.00556.pdf)
 - [ICASSP] [Leveraging Weakly Supervised Data to Improve End-to-End Speech-to-Text Translation](https://arxiv.org/pdf/1811.02050.pdf)
 - [ICASSP] [Towards unsupervised speech-to-text translation](https://arxiv.org/pdf/1811.01307.pdf)
 - [ICASSP] [Towards End-to-end Speech-to-text Translation with Two-pass Decoding](https://orbxball.github.io/pub/icassp-2019.pdf)
