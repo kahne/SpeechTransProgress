@@ -12,7 +12,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 | ------ |:-------:|:-----:|:-----:|----:|
 | [CoVoST 2](https://arxiv.org/pdf/2007.10310.pdf) | {Fr, De, Es, Ca, It, Ru, Zh, Pt, Fa, Et, Mn, Nl, Tr, Ar, Sv, Lv, Sl, Ta, Ja, Id, Cy} -> En and En -> {De, Ca, Zh, Fa, Et, Mn, Tr, Ar, Sv, Lv, Sl, Ta, Ja, Id, Cy} | Text | 2880h | CC0 |
 | [CoVoST](https://arxiv.org/pdf/2002.01320.pdf) | {Fr, De, Nl, Ru, Es, It, Tr, Fa, Sv, Mn, Zh} -> En | Text | 700h | CC0 |
-| [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru} | Text | 400h | CC BY-NC-ND 4.0 |
+| [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru} | Text | 504h | CC BY-NC-ND 4.0 |
 | [How2](https://arxiv.org/pdf/1811.00347.pdf) | En -> Pt | Text | 300h | Youtube & CC BY-SA 4.0 |
 | [Augmented Librispeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | Text | 236h | CC BY 4.0 |
 | [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {En, Fr, De, Es, It, Pt} -> {En, Fr, De, Es, It, Pt} | Text | 200h | CC BY-NC 4.0 |
