@@ -23,12 +23,13 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Paper
 
 ### 2020
-- [arXiv] [CoVoST 2: A Massively Multilingual Speech-to-Text Translation Corpus](https://arxiv.org/pdf/2007.10310.pdf)
+- [arXiv] [CoVoST 2 and Massively Multilingual Speech-to-Text Translation](https://arxiv.org/pdf/2007.10310.pdf)
 - [arXiv] [CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning](https://arxiv.org/pdf/2006.02814.pdf)
 - [arXiv] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
-- [arXiv] [Self-Training for End-to-End Speech Translation](https://arxiv.org/pdf/2006.02490.pdf)
 - [arXiv] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://arxiv.org/pdf/2005.09940.pdf)
 - [arXiv] [Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection](https://arxiv.org/pdf/2005.11185.pdf)
+- [Interspeech] [Contextualized Translation of Automatically Segmented Speech](https://arxiv.org/pdf/2008.02270.pdf)
+- [Interspeech] [Self-Training for End-to-End Speech Translation](https://arxiv.org/pdf/2006.02490.pdf)
 - [Interspeech] [Improving Cross-Lingual Transfer Learning for End-to-End Speech Recognition with Speech Translation](https://arxiv.org/pdf/2006.05474.pdf)
 - [Interspeech] [Self-Supervised Representations Improve End-to-End Speech Translation](https://arxiv.org/pdf/2006.12124.pdf)
 - [TACL] [Consistent Transcription and Translation of Speech](https://arxiv.org/pdf/2007.12741.pdf)
