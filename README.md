@@ -23,6 +23,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Paper
 
 ### 2020
+- [arXiv] [On Target Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2009.04707.pdf)
 - [arXiv] [CoVoST 2 and Massively Multilingual Speech-to-Text Translation](https://arxiv.org/pdf/2007.10310.pdf)
 - [arXiv] [CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning](https://arxiv.org/pdf/2006.02814.pdf)
 - [arXiv] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
