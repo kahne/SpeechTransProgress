@@ -30,6 +30,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 - [arXiv] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
 - [arXiv] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://arxiv.org/pdf/2005.09940.pdf)
 - [arXiv] [Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection](https://arxiv.org/pdf/2005.11185.pdf)
+- [AACL Demo] [fairseq S2T: Fast Speech-to-Text Modeling with fairseq](https://arxiv.org/pdf/2010.05171.pdf)
 - [Interspeech] [Contextualized Translation of Automatically Segmented Speech](https://arxiv.org/pdf/2008.02270.pdf)
 - [Interspeech] [Self-Training for End-to-End Speech Translation](https://arxiv.org/pdf/2006.02490.pdf)
 - [Interspeech] [Improving Cross-Lingual Transfer Learning for End-to-End Speech Recognition with Speech Translation](https://arxiv.org/pdf/2006.05474.pdf)
