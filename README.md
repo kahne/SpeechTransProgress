@@ -23,6 +23,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Paper
 
 ### 2020
+- [arXiv] [Cascaded Models With Cyclic Feedback For Direct Speech Translation](https://arxiv.org/pdf/2010.11153.pdf)
 - [arXiv] [MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation](https://arxiv.org/pdf/2010.11445.pdf)
 - [arXiv] [TED: Triple Supervision Decouples End-to-end Speech-to-text Translation](https://arxiv.org/pdf/2009.09704.pdf)
 - [arXiv] [On Target Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2009.04707.pdf)
