@@ -23,6 +23,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ## Paper
 
 ### 2020
+- [arXiv] [Bridging the Modality Gap for Speech-to-Text Translation](https://arxiv.org/pdf/2010.14920.pdf)
 - [arXiv] [A General Multi-Task Learning Framework to Leverage Text Data for Speech to Text Tasks](https://arxiv.org/pdf/2010.11338.pdf)
 - [arXiv] [Cascaded Models With Cyclic Feedback For Direct Speech Translation](https://arxiv.org/pdf/2010.11153.pdf)
 - [arXiv] [MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation](https://arxiv.org/pdf/2010.11445.pdf)
