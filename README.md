@@ -12,10 +12,10 @@ End-to-End Speech-to-Text/Speech Translation Progress
 | ------ |:-------:|:-----:|:-----:|----:|
 | [CoVoST 2](https://arxiv.org/pdf/2007.10310.pdf) | {Fr, De, Es, Ca, It, Ru, Zh, Pt, Fa, Et, Mn, Nl, Tr, Ar, Sv, Lv, Sl, Ta, Ja, Id, Cy} -> En and En -> {De, Ca, Zh, Fa, Et, Mn, Tr, Ar, Sv, Lv, Sl, Ta, Ja, Id, Cy} | Text | 2880h | CC0 |
 | [CoVoST](https://arxiv.org/pdf/2002.01320.pdf) | {Fr, De, Nl, Ru, Es, It, Tr, Fa, Sv, Mn, Zh} -> En | Text | 700h | CC0 |
-| [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru} | Text | 504h | CC BY-NC-ND 4.0 |
+| [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru, Ar, Cs, Fa, Tr, Vi, Zh} | Text | 504h | CC BY-NC-ND 4.0 |
 | [How2](https://arxiv.org/pdf/1811.00347.pdf) | En -> Pt | Text | 300h | Youtube & CC BY-SA 4.0 |
 | [Augmented Librispeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | Text | 236h | CC BY 4.0 |
-| [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {En, Fr, De, Es, It, Pt} -> {En, Fr, De, Es, It, Pt} | Text | 200h | CC BY-NC 4.0 |
+| [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {En, Fr, De, Es, It, Pt, Pl, Ro, Nl} -> {En, Fr, De, Es, It, Pt, Pl, Ro, Nl} | Text | 280h | CC BY-NC 4.0 |
 | [Fisher + Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | Es -> En | Text | 160h+20h | LDC |
 | [MaSS](https://arxiv.org/pdf/1907.12895.pdf) | {En, Es, Eu, Fi, Fr, Hu, Ro, Ru} -> {En, Es, Eu, Fi, Fr, Hu, Ro, Ru} | Text & Speech | 172h | Bible.is |
 | [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf) | De -> En | Text | 110h | CC BY-NC-SA 4.0 |
@@ -29,14 +29,14 @@ End-to-End Speech-to-Text/Speech Translation Progress
 - [arXiv] [Cascaded Models With Cyclic Feedback For Direct Speech Translation](https://arxiv.org/pdf/2010.11153.pdf)
 - [arXiv] [MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation](https://arxiv.org/pdf/2010.11445.pdf)
 - [arXiv] [TED: Triple Supervision Decouples End-to-end Speech-to-text Translation](https://arxiv.org/pdf/2009.09704.pdf)
-- [arXiv] [On Target Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2009.04707.pdf)
 - [arXiv] [CoVoST 2 and Massively Multilingual Speech-to-Text Translation](https://arxiv.org/pdf/2007.10310.pdf)
 - [arXiv] [CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning](https://arxiv.org/pdf/2006.02814.pdf)
 - [arXiv] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
-- [arXiv] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://arxiv.org/pdf/2005.09940.pdf)
-- [arXiv] [Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection](https://arxiv.org/pdf/2005.11185.pdf)
-- [EMNLP Findings] [Adaptive Feature Selection for End-to-End Speech Translation](https://arxiv.org/pdf/2010.08518.pdf)
 - [AACL Demo] [fairseq S2T: Fast Speech-to-Text Modeling with fairseq](https://arxiv.org/pdf/2010.05171.pdf)
+- [EMNLP] [Effectively pretraining a speech translation decoder with Machine Translation data](https://www.aclweb.org/anthology/2020.emnlp-main.644.pdf)
+- [EMNLP Findings] [Adaptive Feature Selection for End-to-End Speech Translation](https://arxiv.org/pdf/2010.08518.pdf)
+- [AMTA] [On Target Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2009.04707.pdf)
+- [Interspeech] [Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection](https://arxiv.org/pdf/2005.11185.pdf)
 - [Interspeech] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://indico2.conference4me.psnc.pl/event/35/contributions/2722/attachments/329/354/Mon-1-1-7.pdf)
 - [Interspeech] [Contextualized Translation of Automatically Segmented Speech](https://arxiv.org/pdf/2008.02270.pdf)
 - [Interspeech] [Self-Training for End-to-End Speech Translation](https://arxiv.org/pdf/2006.02490.pdf)
