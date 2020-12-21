@@ -22,6 +22,9 @@ End-to-End Speech-to-Text/Speech Translation Progress
 
 ## Paper
 
+### 2021
+- [SLT] [Tight Integrated End-to-End Training for Cascaded Speech Translation](https://arxiv.org/pdf/2011.12167.pdf)
+
 ### 2020
 - [arXiv] [Orthros: Non-autoregressive End-to-end Speech Translation with Dual-decoder](https://arxiv.org/pdf/2010.13047.pdf)
 - [arXiv] [Bridging the Modality Gap for Speech-to-Text Translation](https://arxiv.org/pdf/2010.14920.pdf)
@@ -32,6 +35,9 @@ End-to-End Speech-to-Text/Speech Translation Progress
 - [arXiv] [CoVoST 2 and Massively Multilingual Speech-to-Text Translation](https://arxiv.org/pdf/2007.10310.pdf)
 - [arXiv] [CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning](https://arxiv.org/pdf/2006.02814.pdf)
 - [arXiv] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
+- [CLiC-IT] [On Knowledge Distillation for Direct Speech Translation](https://arxiv.org/pdf/2012.04964.pdf)
+- [COLING] [Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation](https://arxiv.org/pdf/2011.00747.pdf)
+- [COLING] [Breeding Gender-aware Direct Speech Translation Systems](https://arxiv.org/pdf/2012.04955.pdf)
 - [AACL Demo] [fairseq S2T: Fast Speech-to-Text Modeling with fairseq](https://arxiv.org/pdf/2010.05171.pdf)
 - [EMNLP] [Effectively pretraining a speech translation decoder with Machine Translation data](https://www.aclweb.org/anthology/2020.emnlp-main.644.pdf)
 - [EMNLP Findings] [Adaptive Feature Selection for End-to-End Speech Translation](https://arxiv.org/pdf/2010.08518.pdf)
