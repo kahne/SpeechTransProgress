@@ -26,6 +26,7 @@ End-to-End Speech-to-Text/Speech Translation Progress
 - [SLT] [Tight Integrated End-to-End Training for Cascaded Speech Translation](https://arxiv.org/pdf/2011.12167.pdf)
 
 ### 2020
+- [arXiv] [Multilingual Speech Translation with Efficient Finetuning of Pretrained Models](https://arxiv.org/pdf/2010.12829.pdf)
 - [arXiv] [Orthros: Non-autoregressive End-to-end Speech Translation with Dual-decoder](https://arxiv.org/pdf/2010.13047.pdf)
 - [arXiv] [Bridging the Modality Gap for Speech-to-Text Translation](https://arxiv.org/pdf/2010.14920.pdf)
 - [arXiv] [A General Multi-Task Learning Framework to Leverage Text Data for Speech to Text Tasks](https://arxiv.org/pdf/2010.11338.pdf)
