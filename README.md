@@ -1,8 +1,8 @@
-End-to-End Speech-to-Text/Speech Translation Progress
+End-to-End Speech Translation Progress
 ======
 
 ## Tutorial
-* Interspeech 2019 survey talk: [Spoken Language Translation](https://www.youtube.com/watch?v=beB5L6rsb0I)
+* INTERSPEECH 2019 survey talk: [Spoken Language Translation](https://www.youtube.com/watch?v=beB5L6rsb0I)
 * Blog: [Getting Started with End-to-End Speech Translation](https://towardsdatascience.com/getting-started-with-end-to-end-speech-translation-3634c35a6561)
 * ACL 2020 Theme paper: [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
 
@@ -11,31 +11,44 @@ End-to-End Speech-to-Text/Speech Translation Progress
 | Corpus | Direction | Target | Duration | License |
 | ------ |:-------:|:-----:|:-----:|----:|
 | [CoVoST 2](https://arxiv.org/pdf/2007.10310.pdf) | {Fr, De, Es, Ca, It, Ru, Zh, Pt, Fa, Et, Mn, Nl, Tr, Ar, Sv, Lv, Sl, Ta, Ja, Id, Cy} -> En and En -> {De, Ca, Zh, Fa, Et, Mn, Tr, Ar, Sv, Lv, Sl, Ta, Ja, Id, Cy} | Text | 2880h | CC0 |
+| [mTEDx](https://arxiv.org/pdf/2102.01757.pdf) | {Es, Fr, Pt, It, Ru, El} -> En, {Fr, Pt, It} -> Es, Es -> {Fr, It}, {Es,Fr} -> Pt | Text | 765h | CC BY-NC-ND 4.0 |
 | [CoVoST](https://arxiv.org/pdf/2002.01320.pdf) | {Fr, De, Nl, Ru, Es, It, Tr, Fa, Sv, Mn, Zh} -> En | Text | 700h | CC0 |
 | [MUST-C](https://www.aclweb.org/anthology/N19-1202.pdf) & [MUST-Cinema](https://arxiv.org/pdf/2002.10829.pdf) | En -> {De, Es, Fr, It, Nl, Pt, Ro, Ru, Ar, Cs, Fa, Tr, Vi, Zh} | Text | 504h | CC BY-NC-ND 4.0 |
 | [How2](https://arxiv.org/pdf/1811.00347.pdf) | En -> Pt | Text | 300h | Youtube & CC BY-SA 4.0 |
-| [Augmented Librispeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | Text | 236h | CC BY 4.0 |
+| [Augmented LibriSpeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | Text | 236h | CC BY 4.0 |
 | [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {En, Fr, De, Es, It, Pt, Pl, Ro, Nl} -> {En, Fr, De, Es, It, Pt, Pl, Ro, Nl} | Text | 280h | CC BY-NC 4.0 |
 | [Fisher + Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | Es -> En | Text | 160h+20h | LDC |
 | [MaSS](https://arxiv.org/pdf/1907.12895.pdf) | {En, Es, Eu, Fi, Fr, Hu, Ro, Ru} -> {En, Es, Eu, Fi, Fr, Hu, Ro, Ru} | Text & Speech | 172h | Bible.is |
 | [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf) | De -> En | Text | 110h | CC BY-NC-SA 4.0 |
 
+## Toolkit
+* [ESPNet-ST](https://github.com/espnet/espnet)
+* [Fairseq S2T](https://github.com/pytorch/fairseq/tree/master/examples/speech_to_text)
+* [NeurST](https://github.com/bytedance/neurst)
+
 ## Paper
 
 ### 2021
+- [arXiv] [Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation](https://arxiv.org/pdf/2102.05766.pdf)
+- [arXiv] [The Multilingual TEDx Corpus for Speech Recognition and Translation](https://arxiv.org/pdf/2102.01757.pdf)
+- [ICASSP] [A General Multi-Task Learning Framework to Leverage Text Data for Speech to Text Tasks](https://arxiv.org/pdf/2010.11338.pdf)
+- [EACL] [CTC-based Compression for Direct Speech Translation](https://arxiv.org/pdf/2102.01578.pdf)
+- [AAAI] [Consecutive Decoding for Speech-to-text Translation](https://arxiv.org/pdf/2009.09737.pdf)
+- [AAAI] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
+- [AAAI] ["Listen, Understand and Translate": Triple Supervision Decouples End-to-end Speech-to-text Translation](https://arxiv.org/pdf/2009.09704.pdf)
 - [SLT] [Tight Integrated End-to-End Training for Cascaded Speech Translation](https://arxiv.org/pdf/2011.12167.pdf)
+- [SLT] [Transformer-based Direct Speech-to-speech Translation with Transcoder](https://ahcweb01.naist.jp/papers/conference/2021/202101_SLT_takatomo-k/202101_SLT_takatomo-k.paper.pdf)
 
 ### 2020
 - [arXiv] [Multilingual Speech Translation with Efficient Finetuning of Pretrained Models](https://arxiv.org/pdf/2010.12829.pdf)
+- [arXiv] [NeurST: Neural Speech Translation Toolkit](https://arxiv.org/pdf/2012.10018.pdf)
+- [arXiv] [Enabling Zero-shot Multilingual Spoken Language Translation with Language-Specific Encoders and Decoders](https://arxiv.org/pdf/2011.01097.pdf)
 - [arXiv] [Orthros: Non-autoregressive End-to-end Speech Translation with Dual-decoder](https://arxiv.org/pdf/2010.13047.pdf)
 - [arXiv] [Bridging the Modality Gap for Speech-to-Text Translation](https://arxiv.org/pdf/2010.14920.pdf)
-- [arXiv] [A General Multi-Task Learning Framework to Leverage Text Data for Speech to Text Tasks](https://arxiv.org/pdf/2010.11338.pdf)
 - [arXiv] [Cascaded Models With Cyclic Feedback For Direct Speech Translation](https://arxiv.org/pdf/2010.11153.pdf)
 - [arXiv] [MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation](https://arxiv.org/pdf/2010.11445.pdf)
-- [arXiv] [TED: Triple Supervision Decouples End-to-end Speech-to-text Translation](https://arxiv.org/pdf/2009.09704.pdf)
 - [arXiv] [CoVoST 2 and Massively Multilingual Speech-to-Text Translation](https://arxiv.org/pdf/2007.10310.pdf)
 - [arXiv] [CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning](https://arxiv.org/pdf/2006.02814.pdf)
-- [arXiv] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
 - [CLiC-IT] [On Knowledge Distillation for Direct Speech Translation](https://arxiv.org/pdf/2012.04964.pdf)
 - [COLING] [Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation](https://arxiv.org/pdf/2011.00747.pdf)
 - [COLING] [Breeding Gender-aware Direct Speech Translation Systems](https://arxiv.org/pdf/2012.04955.pdf)
@@ -43,12 +56,13 @@ End-to-End Speech-to-Text/Speech Translation Progress
 - [EMNLP] [Effectively pretraining a speech translation decoder with Machine Translation data](https://www.aclweb.org/anthology/2020.emnlp-main.644.pdf)
 - [EMNLP Findings] [Adaptive Feature Selection for End-to-End Speech Translation](https://arxiv.org/pdf/2010.08518.pdf)
 - [AMTA] [On Target Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2009.04707.pdf)
-- [Interspeech] [Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection](https://arxiv.org/pdf/2005.11185.pdf)
-- [Interspeech] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://indico2.conference4me.psnc.pl/event/35/contributions/2722/attachments/329/354/Mon-1-1-7.pdf)
-- [Interspeech] [Contextualized Translation of Automatically Segmented Speech](https://arxiv.org/pdf/2008.02270.pdf)
-- [Interspeech] [Self-Training for End-to-End Speech Translation](https://arxiv.org/pdf/2006.02490.pdf)
-- [Interspeech] [Improving Cross-Lingual Transfer Learning for End-to-End Speech Recognition with Speech Translation](https://arxiv.org/pdf/2006.05474.pdf)
-- [Interspeech] [Self-Supervised Representations Improve End-to-End Speech Translation](https://arxiv.org/pdf/2006.12124.pdf)
+- [INTERSPEECH] [Low-Latency Sequence-to-Sequence Speech Recognition and Translation by Partial Hypothesis Selection](https://arxiv.org/pdf/2005.11185.pdf)
+- [INTERSPEECH] [Relative Positional Encoding for Speech Recognition and Direct Translation](https://indico2.conference4me.psnc.pl/event/35/contributions/2722/attachments/329/354/Mon-1-1-7.pdf)
+- [INTERSPEECH] [Contextualized Translation of Automatically Segmented Speech](https://arxiv.org/pdf/2008.02270.pdf)
+- [INTERSPEECH] [Self-Training for End-to-End Speech Translation](https://arxiv.org/pdf/2006.02490.pdf)
+- [INTERSPEECH] [Improving Cross-Lingual Transfer Learning for End-to-End Speech Recognition with Speech Translation](https://arxiv.org/pdf/2006.05474.pdf)
+- [INTERSPEECH] [Self-Supervised Representations Improve End-to-End Speech Translation](https://arxiv.org/pdf/2006.12124.pdf)
+- [INTERSPEECH] [Investigating Self-Supervised Pre-Training for End-to-End Speech Translation](http://www.interspeech2020.org/uploadfile/pdf/Tue-1-1-3.pdf)
 - [TACL] [Consistent Transcription and Translation of Speech](https://arxiv.org/pdf/2007.12741.pdf)
 - [ACL] [Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation](https://arxiv.org/pdf/2005.10678.pdf)
 - [ACL] [Phone Features Improve Speech Translation](https://arxiv.org/pdf/2005.13681.pdf)
@@ -75,9 +89,9 @@ End-to-End Speech-to-Text/Speech Translation Progress
 - [ASRU] [A Comparative Study on End-to-end Speech to Text Translation](https://arxiv.org/pdf/1911.08870.pdf)
 - [IWSLT] [Harnessing Indirect Training Data for End-to-End Automatic Speech Translation: Tricks of the Trade](https://arxiv.org/pdf/1909.06515.pdf)
 - [IWSLT] [On Using SpecAugment for End-to-End Speech Translation](https://arxiv.org/pdf/1911.08876.pdf)
-- [Interspeech] [End-to-End Speech Translation with Knowledge Distillation](https://arxiv.org/pdf/1904.08075.pdf)
-- [Interspeech] [Adapting Transformer to End-to-end Spoken Language Translation](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3045.pdf)
-- [Interspeech] [Direct speech-to-speech translation with a sequence-to-sequence model](https://arxiv.org/pdf/1904.06037.pdf)
+- [INTERSPEECH] [End-to-End Speech Translation with Knowledge Distillation](https://arxiv.org/pdf/1904.08075.pdf)
+- [INTERSPEECH] [Adapting Transformer to End-to-end Spoken Language Translation](https://www.isca-speech.org/archive/INTERSPEECH_2019/pdfs/3045.pdf)
+- [INTERSPEECH] [Direct speech-to-speech translation with a sequence-to-sequence model](https://arxiv.org/pdf/1904.06037.pdf)
 - [ACL] [Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation](https://www.aclweb.org/anthology/P19-1179.pdf)
 - [ACL] [Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation](https://arxiv.org/pdf/1904.07209.pdf)
 - [NAACL] [Pre-training on High-Resource Speech Recognition Improves Low-Resource Speech-to-Text Translation](https://www.aclweb.org/anthology/N19-1006.pdf)
@@ -90,14 +104,14 @@ End-to-End Speech-to-Text/Speech Translation Progress
 ### 2018
 - [NIPS] [How2: A Large-scale Dataset for Multimodal Language Understanding](https://arxiv.org/pdf/1811.00347.pdf)
 - [IberSPEECH] [End-to-End Speech Translation with the Transformer](https://pdfs.semanticscholar.org/5253/3e5ffc2f9b635fa21259f9749609b1f9dfa1.pdf?_ga=2.259261770.172395283.1580036833-1842396350.1580036833)
-- [Interspeech] [Low-Resource Speech-to-Text Translation](https://arxiv.org/pdf/1803.09164.pdf)
+- [INTERSPEECH] [Low-Resource Speech-to-Text Translation](https://arxiv.org/pdf/1803.09164.pdf)
 - [LREC] [Augmenting Librispeech with French Translations: A Multimodal Corpus for Direct Speech Translation Evaluation](https://arxiv.org/pdf/1802.03142.pdf)
 - [NAACL] [Tied multitask learning for neural speech translation](https://www.aclweb.org/anthology/N18-1008.pdf)
 - [ICASSP] [End-to-End Automatic Speech Translation of Audiobooks](https://arxiv.org/pdf/1802.04200.pdf)
 
 ### 2017
-- [Interspeech] [Sequence-to-Sequence Models Can Directly Translate Foreign Speech](https://arxiv.org/pdf/1703.08581.pdf)
-- [Interspeech] [Structured-based Curriculum Learning for End-to-end English-Japanese Speech Translation](https://arxiv.org/abs/1802.06003)
+- [INTERSPEECH] [Sequence-to-Sequence Models Can Directly Translate Foreign Speech](https://arxiv.org/pdf/1703.08581.pdf)
+- [INTERSPEECH] [Structured-based Curriculum Learning for End-to-end English-Japanese Speech Translation](https://arxiv.org/abs/1802.06003)
 - [EACL] [Towards speech-to-text translation without speech recognition](https://arxiv.org/pdf/1702.03856.pdf)
 
 ### 2016
