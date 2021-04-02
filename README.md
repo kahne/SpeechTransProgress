@@ -2,9 +2,10 @@ End-to-End Speech Translation Progress
 ======
 
 ## Tutorial
-* INTERSPEECH 2019 survey talk: [Spoken Language Translation](https://www.youtube.com/watch?v=beB5L6rsb0I)
+* EACL 2021 tutorial: [Speech Translation](https://st-tutorial.github.io)
 * Blog: [Getting Started with End-to-End Speech Translation](https://towardsdatascience.com/getting-started-with-end-to-end-speech-translation-3634c35a6561)
 * ACL 2020 Theme paper: [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
+* INTERSPEECH 2019 survey talk: [Spoken Language Translation](https://www.youtube.com/watch?v=beB5L6rsb0I)
 
 ## Data
 
@@ -33,6 +34,7 @@ End-to-End Speech Translation Progress
 - [arXiv] [The Multilingual TEDx Corpus for Speech Recognition and Translation](https://arxiv.org/pdf/2102.01757.pdf)
 - [ICASSP] [A General Multi-Task Learning Framework to Leverage Text Data for Speech to Text Tasks](https://arxiv.org/pdf/2010.11338.pdf)
 - [ICASSP] [An Empirical Study of End-to-end Simultaneous Speech Translation Decoding Strategies](https://arxiv.org/pdf/2103.03233.pdf)
+- [ICASSP] [Streaming Simultaneous Speech Translation with Augmented Memory Transformer](https://arxiv.org/pdf/2011.00033.pdf)
 - [EACL] [CTC-based Compression for Direct Speech Translation](https://arxiv.org/pdf/2102.01578.pdf)
 - [IberSPEECH] [mintzai-ST: Corpus and Baselines for Basque-Spanish Speech Translation](https://www.isca-speech.org/archive/IberSPEECH_2021/pdfs/41.pdf)
 - [AAAI] [Consecutive Decoding for Speech-to-text Translation](https://arxiv.org/pdf/2009.09737.pdf)
@@ -54,6 +56,7 @@ End-to-End Speech Translation Progress
 - [CLiC-IT] [On Knowledge Distillation for Direct Speech Translation](https://arxiv.org/pdf/2012.04964.pdf)
 - [COLING] [Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation](https://arxiv.org/pdf/2011.00747.pdf)
 - [COLING] [Breeding Gender-aware Direct Speech Translation Systems](https://arxiv.org/pdf/2012.04955.pdf)
+- [AACL] [SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation](https://www.aclweb.org/anthology/2020.aacl-main.58.pdf)
 - [AACL Demo] [fairseq S2T: Fast Speech-to-Text Modeling with fairseq](https://arxiv.org/pdf/2010.05171.pdf)
 - [EMNLP] [Effectively pretraining a speech translation decoder with Machine Translation data](https://www.aclweb.org/anthology/2020.emnlp-main.644.pdf)
 - [EMNLP Findings] [Adaptive Feature Selection for End-to-End Speech Translation](https://arxiv.org/pdf/2010.08518.pdf)
