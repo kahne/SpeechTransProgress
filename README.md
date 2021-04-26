@@ -21,6 +21,7 @@ End-to-End Speech Translation Progress
 | [Fisher + Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | Es -> En | Text | 160h+20h | LDC |
 | [MaSS](https://arxiv.org/pdf/1907.12895.pdf) | {En, Es, Eu, Fi, Fr, Hu, Ro, Ru} -> {En, Es, Eu, Fi, Fr, Hu, Ro, Ru} | Text & Speech | 172h | Bible.is |
 | [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf) | De -> En | Text | 110h | CC BY-NC-SA 4.0 |
+| [BSTC](https://arxiv.org/pdf/2104.03575.pdf) | Zh -> En | Text | 68h |  |
 
 ## Toolkit
 * [ESPNet-ST](https://github.com/espnet/espnet)
@@ -30,12 +31,15 @@ End-to-End Speech Translation Progress
 ## Paper
 
 ### 2021
+- [arXiv] [Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation](https://arxiv.org/pdf/2104.06457.pdf)
+- [arXiv] [BSTC: A Large-Scale Chinese-English Speech Translation Dataset](https://arxiv.org/pdf/2104.03575.pdf)
 - [arXiv] [Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation](https://arxiv.org/pdf/2102.05766.pdf)
 - [arXiv] [The Multilingual TEDx Corpus for Speech Recognition and Translation](https://arxiv.org/pdf/2102.01757.pdf)
 - [ICASSP] [A General Multi-Task Learning Framework to Leverage Text Data for Speech to Text Tasks](https://arxiv.org/pdf/2010.11338.pdf)
 - [ICASSP] [An Empirical Study of End-to-end Simultaneous Speech Translation Decoding Strategies](https://arxiv.org/pdf/2103.03233.pdf)
 - [ICASSP] [Streaming Simultaneous Speech Translation with Augmented Memory Transformer](https://arxiv.org/pdf/2011.00033.pdf)
 - [EACL] [CTC-based Compression for Direct Speech Translation](https://arxiv.org/pdf/2102.01578.pdf)
+- [EACL] [Streaming Models for Joint Speech Recognition and Translation](https://arxiv.org/pdf/2101.09149.pdf)
 - [IberSPEECH] [mintzai-ST: Corpus and Baselines for Basque-Spanish Speech Translation](https://www.isca-speech.org/archive/IberSPEECH_2021/pdfs/41.pdf)
 - [AAAI] [Consecutive Decoding for Speech-to-text Translation](https://arxiv.org/pdf/2009.09737.pdf)
 - [AAAI] [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/pdf/2006.07926.pdf)
