@@ -31,6 +31,8 @@ End-to-End Speech Translation Progress
 ## Paper
 
 ### 2021
+- [arXiv] [Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2104.11710.pdf)
+- [arXiv] [End-to-end Speech Translation via Cross-modal Progressive Training](https://arxiv.org/pdf/2104.10380.pdf)
 - [arXiv] [Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation](https://arxiv.org/pdf/2104.06457.pdf)
 - [arXiv] [BSTC: A Large-Scale Chinese-English Speech Translation Dataset](https://arxiv.org/pdf/2104.03575.pdf)
 - [arXiv] [Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation](https://arxiv.org/pdf/2102.05766.pdf)
