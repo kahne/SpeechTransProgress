@@ -31,6 +31,7 @@ End-to-End Speech Translation Progress
 ## Paper
 
 ### 2021
+- [arXiv] [Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2104.14470.pdf)
 - [arXiv] [Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2104.11710.pdf)
 - [arXiv] [End-to-end Speech Translation via Cross-modal Progressive Training](https://arxiv.org/pdf/2104.10380.pdf)
 - [arXiv] [Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation](https://arxiv.org/pdf/2104.06457.pdf)
