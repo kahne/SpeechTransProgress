@@ -31,6 +31,7 @@ End-to-End Speech Translation Progress
 ## Paper
 
 ### 2021
+- [arXiv] [AlloST: Low-resource Speech Translation without Source Transcription](https://arxiv.org/pdf/2105.00171.pdf)
 - [arXiv] [Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2104.14470.pdf)
 - [arXiv] [Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2104.11710.pdf)
 - [arXiv] [End-to-end Speech Translation via Cross-modal Progressive Training](https://arxiv.org/pdf/2104.10380.pdf)
@@ -38,6 +39,10 @@ End-to-End Speech Translation Progress
 - [arXiv] [BSTC: A Large-Scale Chinese-English Speech Translation Dataset](https://arxiv.org/pdf/2104.03575.pdf)
 - [arXiv] [Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation](https://arxiv.org/pdf/2102.05766.pdf)
 - [arXiv] [The Multilingual TEDx Corpus for Speech Recognition and Translation](https://arxiv.org/pdf/2102.01757.pdf)
+- [ACL] [Stacked Acoustic-and-Textual Encoding: Integrating the Pre-trained Models into Speech Translation Encoders](https://arxiv.org/pdf/2105.05752.pdf)
+- [ACL] [Learning Shared Semantic Space for Speech-to-Text Translation](https://arxiv.org/pdf/2105.03095.pdf)
+- [ACL] [Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation](https://arxiv.org/pdf/2105.04840.pdf)
+- [ICASSP] [Task Aware Multi-Task Learning for Speech to Text Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414703)
 - [ICASSP] [A General Multi-Task Learning Framework to Leverage Text Data for Speech to Text Tasks](https://arxiv.org/pdf/2010.11338.pdf)
 - [ICASSP] [An Empirical Study of End-to-end Simultaneous Speech Translation Decoding Strategies](https://arxiv.org/pdf/2103.03233.pdf)
 - [ICASSP] [Streaming Simultaneous Speech Translation with Augmented Memory Transformer](https://arxiv.org/pdf/2011.00033.pdf)
