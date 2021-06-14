@@ -53,6 +53,8 @@ End-to-End Speech Translation Progress
 - [ICASSP] [Streaming Simultaneous Speech Translation with Augmented Memory Transformer](https://arxiv.org/pdf/2011.00033.pdf)
 - [ICASSP] [Orthros: Non-autoregressive End-to-end Speech Translation with Dual-decoder](https://arxiv.org/pdf/2010.13047.pdf)
 - [ICASSP] [Cascaded Models With Cyclic Feedback For Direct Speech Translation](https://arxiv.org/pdf/2010.11153.pdf)
+- [ICASSP] [Jointly Trained Transformers models for Spoken Language Translation](https://arxiv.org/pdf/2004.12111.pdf)
+- [ICASSP] [Efficient Use of End-to-end Data in Spoken Language Processing](https://ieeexplore.ieee.org/document/9414510)
 - [EACL] [CTC-based Compression for Direct Speech Translation](https://arxiv.org/pdf/2102.01578.pdf)
 - [EACL] [Streaming Models for Joint Speech Recognition and Translation](https://arxiv.org/pdf/2101.09149.pdf)
 - [IberSPEECH] [mintzai-ST: Corpus and Baselines for Basque-Spanish Speech Translation](https://www.isca-speech.org/archive/IberSPEECH_2021/pdfs/41.pdf)
