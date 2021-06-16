@@ -31,6 +31,7 @@ End-to-End Speech Translation Progress
 ## Paper
 
 ### 2021
+- [arXiv] [RealTranS: End-to-End Simultaneous Speech Translation with Convolutional Weighted-Shrinking Transformer](https://arxiv.org/pdf/2106.04833.pdf)
 - [arXiv] [AlloST: Low-resource Speech Translation without Source Transcription](https://arxiv.org/pdf/2105.00171.pdf)
 - [arXiv] [Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2104.14470.pdf)
 - [arXiv] [Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2104.11710.pdf)
