@@ -18,6 +18,7 @@ End-to-End Speech Translation Progress
 | [How2](https://arxiv.org/pdf/1811.00347.pdf) | En -> Pt | Text | 300h | Youtube & CC BY-SA 4.0 |
 | [Augmented LibriSpeech](https://arxiv.org/pdf/1802.03142.pdf) | En -> Fr | Text | 236h | CC BY 4.0 |
 | [Europarl-ST](https://arxiv.org/pdf/1911.03167.pdf) | {En, Fr, De, Es, It, Pt, Pl, Ro, Nl} -> {En, Fr, De, Es, It, Pt, Pl, Ro, Nl} | Text | 280h | CC BY-NC 4.0 |
+| [Kosp2e](https://arxiv.org/pdf/2107.02875.pdf) | Ko -> En | Text | 198h | Mixed CC |
 | [Fisher + Callhome](https://www.seas.upenn.edu/~ccb/publications/improved-speech-to-speech-translation.pdf) | Es -> En | Text | 160h+20h | LDC |
 | [MaSS](https://arxiv.org/pdf/1907.12895.pdf) | {En, Es, Eu, Fi, Fr, Hu, Ro, Ru} -> {En, Es, Eu, Fi, Fr, Hu, Ro, Ru} | Text & Speech | 172h | Bible.is |
 | [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf) | De -> En | Text | 110h | CC BY-NC-SA 4.0 |
