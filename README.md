@@ -32,7 +32,11 @@ End-to-End Speech Translation Progress
 ## Paper
 
 ### 2021
+- [arXiv] [Simultaneous Speech Translation for Live Subtitling: from Delay to Display](https://arxiv.org/pdf/2107.08807.pdf)
+- [arXiv] [Translatotron 2: Robust direct speech-to-speech translation](https://arxiv.org/pdf/2107.08661.pdf)
+- [arXiv] [Direct speech-to-speech translation with discrete units](https://arxiv.org/pdf/2107.05604.pdf)
 - [arXiv] [Efficient Transformer for Direct Speech Translation](https://arxiv.org/pdf/2107.03069.pdf)
+- [arXiv] [Zero-shot Speech Translation](https://arxiv.org/pdf/2107.06010.pdf)
 - [arXiv] [Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2104.11710.pdf)
 - [INTERSPEECH] [Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2104.14470.pdf)
 - [INTERSPEECH] [End-to-end Speech Translation via Cross-modal Progressive Training](https://arxiv.org/pdf/2104.10380.pdf)
@@ -55,6 +59,7 @@ End-to-End Speech Translation Progress
 - [ACL Demo] [NeurST: Neural Speech Translation Toolkit](https://arxiv.org/pdf/2012.10018.pdf)
 - [ICML] [Fused Acoustic and Text Encoding for Multimodal Bilingual Pretraining and Speech Translation](https://arxiv.org/pdf/2102.05766.pdf)
 - [NAACL] [Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation](https://arxiv.org/pdf/2104.06457.pdf)
+- [NAACL] [Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence Tasks](https://arxiv.org/pdf/2105.00573.pdf)
 - [NAACL AutoSimTrans] [BSTC: A Large-Scale Chinese-English Speech Translation Dataset](https://arxiv.org/pdf/2104.03575.pdf)
 - [AmericasNLP] [Highland Puebla Nahuatl–Spanish Speech Translation Corpus for Endangered Language Documentation](https://www.aclweb.org/anthology/2021.americasnlp-1.7.pdf)
 - [ICASSP] [Task Aware Multi-Task Learning for Speech to Text Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9414703)
