@@ -104,7 +104,7 @@ End-to-End Speech Translation Progress
 - [ACL] [Phone Features Improve Speech Translation](https://arxiv.org/pdf/2005.13681.pdf)
 - [ACL] [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/pdf/2004.10093.pdf)
 - [ACL] [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350.pdf)
-  [ACL] [Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus](https://aclanthology.org/2020.acl-main.619.pdf)
+- [ACL] [Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus](https://aclanthology.org/2020.acl-main.619.pdf)
 - [ACL Theme] [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
 - [ACL Demo] [ESPnet-ST: All-in-One Speech Translation Toolkit](https://arxiv.org/pdf/2004.10234.pdf)
 - [LREC] [CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus](https://arxiv.org/pdf/2002.01320.pdf)
