@@ -45,6 +45,9 @@ End-to-End Speech Translation Progress
 - [INTERSPEECH] [Large-Scale Self-and Semi-Supervised Learning for Speech Translation](https://arxiv.org/pdf/2104.06678.pdf)
 - [INTERSPEECH] [Kosp2e: Korean Speech to English Translation Corpus](https://arxiv.org/pdf/2107.02875.pdf)
 - [INTERSPEECH] [AlloST: Low-resource Speech Translation without Source Transcription](https://arxiv.org/pdf/2105.00171.pdf)
+- [INTERSPEECH] [SpecRec: An Alternative Solution for Improving End-to-End Speech-to-Text Translation via Spectrogram Reconstruction](https://www.isca-speech.org/archive/pdfs/interspeech_2021/chen21i_interspeech.pdf)
+- [INTERSPEECH] [Optimally Encoding Inductive Biases into the Transformer Improves End-to-End Speech Translation](https://www.isca-speech.org/archive/pdfs/interspeech_2021/vyas21_interspeech.pdf)
+- [INTERSPEECH] [ASR Posterior-based Loss for Multi-task End-to-end Speech Translation](https://www.isca-speech.org/archive/pdfs/interspeech_2021/ko21_interspeech.pdf)
 - [ACL] [Stacked Acoustic-and-Textual Encoding: Integrating the Pre-trained Models into Speech Translation Encoders](https://arxiv.org/pdf/2105.05752.pdf)
 - [ACL] [Multilingual Speech Translation with Efficient Finetuning of Pretrained Models](https://arxiv.org/pdf/2010.12829.pdf)
 - [ACL] [Lightweight Adapter Tuning for Multilingual Speech Translation](https://arxiv.org/pdf/2106.01463.pdf)
@@ -82,7 +85,6 @@ End-to-End Speech Translation Progress
 ### 2020
 - [arXiv] [Enabling Zero-shot Multilingual Spoken Language Translation with Language-Specific Encoders and Decoders](https://arxiv.org/pdf/2011.01097.pdf)
 - [arXiv] [Bridging the Modality Gap for Speech-to-Text Translation](https://arxiv.org/pdf/2010.14920.pdf)
-- [arXiv] [MAM: Masked Acoustic Modeling for End-to-End Speech-to-Text Translation](https://arxiv.org/pdf/2010.11445.pdf)
 - [arXiv] [CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning](https://arxiv.org/pdf/2006.02814.pdf)
 - [CLiC-IT] [On Knowledge Distillation for Direct Speech Translation](https://arxiv.org/pdf/2012.04964.pdf)
 - [COLING] [Dual-decoder Transformer for Joint Automatic Speech Recognition and Multilingual Speech Translation](https://arxiv.org/pdf/2011.00747.pdf)
