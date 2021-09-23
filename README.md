@@ -38,6 +38,7 @@ End-to-End Speech Translation Progress
 - [arXiv] [Efficient Transformer for Direct Speech Translation](https://arxiv.org/pdf/2107.03069.pdf)
 - [arXiv] [Zero-shot Speech Translation](https://arxiv.org/pdf/2107.06010.pdf)
 - [arXiv] [Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2104.11710.pdf)
+- [arXiv] [UniST: Unified End-to-end Model for Streaming and Non-streaming Speech Translation](https://arxiv.org/pdf/2109.07368.pdf)
 - [INTERSPEECH] [Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2104.14470.pdf)
 - [EMNLP] [Speechformer: Reducing Information Loss in Direct Speech Translation](https://arxiv.org/pdf/2109.04574.pdf)
 - [EMNLP] [Is "moby dick" a Whale or a Bird? Named Entities and Terminology in Speech Translation](https://arxiv.org/pdf/2109.07439.pdf)
