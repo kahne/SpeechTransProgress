@@ -33,6 +33,7 @@ End-to-End Speech Translation Progress
 
 ### 2021
 - [arXiv] [Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement](https://arxiv.org/pdf/2112.10991.pdf)
+- [arXiv] [Textless Speech-to-Speech Translation on Real Data](https://arxiv.org/pdf/2112.08352.pdf)
 - [arXiv] [Simultaneous Speech Translation for Live Subtitling: from Delay to Display](https://arxiv.org/pdf/2107.08807.pdf)
 - [arXiv] [Translatotron 2: Robust direct speech-to-speech translation](https://arxiv.org/pdf/2107.08661.pdf)
 - [arXiv] [Direct speech-to-speech translation with discrete units](https://arxiv.org/pdf/2107.05604.pdf)
