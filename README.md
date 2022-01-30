@@ -31,21 +31,22 @@ End-to-End Speech Translation Progress
 * [NeurST](https://github.com/bytedance/neurst)
 
 ## Paper
+### 2022
+- [arXiv] [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](https://arxiv.org/pdf/2201.03713.pdf)
+- [AAAI] [Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement](https://arxiv.org/pdf/2112.10991.pdf)
 
 ### 2021
-- [arXiv] [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](https://arxiv.org/pdf/2201.03713.pdf)
-- [arXiv] [Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement](https://arxiv.org/pdf/2112.10991.pdf)
 - [arXiv] [Textless Speech-to-Speech Translation on Real Data](https://arxiv.org/pdf/2112.08352.pdf)
-- [arXiv] [Simultaneous Speech Translation for Live Subtitling: from Delay to Display](https://arxiv.org/pdf/2107.08807.pdf)
 - [arXiv] [Translatotron 2: Robust direct speech-to-speech translation](https://arxiv.org/pdf/2107.08661.pdf)
 - [arXiv] [Direct speech-to-speech translation with discrete units](https://arxiv.org/pdf/2107.05604.pdf)
 - [arXiv] [Efficient Transformer for Direct Speech Translation](https://arxiv.org/pdf/2107.03069.pdf)
 - [arXiv] [Zero-shot Speech Translation](https://arxiv.org/pdf/2107.06010.pdf)
-- [arXiv] [Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2104.11710.pdf)
 - [arXiv] [UniST: Unified End-to-end Model for Streaming and Non-streaming Speech Translation](https://arxiv.org/pdf/2109.07368.pdf)
 - [arXiv] [Direct simultaneous speech to speech translation](https://arxiv.org/pdf/2110.08250.pdf)
 - [ASRU] [Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates](https://arxiv.org/pdf/2109.12804.pdf)
 - [ASRU] [Assessing Evaluation Metrics for Speech-to-Speech Translation](https://arxiv.org/pdf/2110.13877.pdf)
+- [ASRU] [Enabling Zero-shot Multilingual Spoken Language Translation with Language-Specific Encoders and Decoders](https://arxiv.org/pdf/2011.01097.pdf)
+- [ICNLSP] [Beyond Voice Activity Detection: Hybrid Audio Segmentation for Direct Speech Translation](https://arxiv.org/pdf/2104.11710.pdf)
 - [INTERSPEECH] [Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2104.14470.pdf)
 - [EMNLP] [Speechformer: Reducing Information Loss in Direct Speech Translation](https://arxiv.org/pdf/2109.04574.pdf)
 - [EMNLP] [Is "moby dick" a Whale or a Bird? Named Entities and Terminology in Speech Translation](https://arxiv.org/pdf/2109.07439.pdf)
@@ -58,6 +59,7 @@ End-to-End Speech Translation Progress
 - [INTERSPEECH] [SpecRec: An Alternative Solution for Improving End-to-End Speech-to-Text Translation via Spectrogram Reconstruction](https://www.isca-speech.org/archive/pdfs/interspeech_2021/chen21i_interspeech.pdf)
 - [INTERSPEECH] [Optimally Encoding Inductive Biases into the Transformer Improves End-to-End Speech Translation](https://www.isca-speech.org/archive/pdfs/interspeech_2021/vyas21_interspeech.pdf)
 - [INTERSPEECH] [ASR Posterior-based Loss for Multi-task End-to-end Speech Translation](https://www.isca-speech.org/archive/pdfs/interspeech_2021/ko21_interspeech.pdf)
+- [AMTA] [Simultaneous Speech Translation for Live Subtitling: from Delay to Display](https://arxiv.org/pdf/2107.08807.pdf)
 - [ACL] [Stacked Acoustic-and-Textual Encoding: Integrating the Pre-trained Models into Speech Translation Encoders](https://arxiv.org/pdf/2105.05752.pdf)
 - [ACL] [Multilingual Speech Translation with Efficient Finetuning of Pretrained Models](https://arxiv.org/pdf/2010.12829.pdf)
 - [ACL] [Lightweight Adapter Tuning for Multilingual Speech Translation](https://arxiv.org/pdf/2106.01463.pdf)
@@ -93,7 +95,6 @@ End-to-End Speech Translation Progress
 - [SLT] [Transformer-based Direct Speech-to-speech Translation with Transcoder](https://ahcweb01.naist.jp/papers/conference/2021/202101_SLT_takatomo-k/202101_SLT_takatomo-k.paper.pdf)
 
 ### 2020
-- [arXiv] [Enabling Zero-shot Multilingual Spoken Language Translation with Language-Specific Encoders and Decoders](https://arxiv.org/pdf/2011.01097.pdf)
 - [arXiv] [Bridging the Modality Gap for Speech-to-Text Translation](https://arxiv.org/pdf/2010.14920.pdf)
 - [arXiv] [CSTNet: Contrastive Speech Translation Network for Self-Supervised Speech Representation Learning](https://arxiv.org/pdf/2006.02814.pdf)
 - [CLiC-IT] [On Knowledge Distillation for Direct Speech Translation](https://arxiv.org/pdf/2012.04964.pdf)
