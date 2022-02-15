@@ -36,6 +36,7 @@ End-to-End Speech Translation Progress
 - [arXiv] [Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages](https://arxiv.org/pdf/2201.11391.pdf)
 - [arXiv] [Tackling data scarcity in speech translation using zero-shot multilingual machine translation techniques](https://arxiv.org/pdf/2201.11172.pdf)
 - [arXiv] [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](https://arxiv.org/pdf/2201.03713.pdf)
+- [arXiv] [SHAS: Approaching optimal Segmentation for End-to-End Speech Translation](https://arxiv.org/pdf/2202.04774.pdf)
 - [NN] [Improving data augmentation for low resource speech-to-text translation with diverse paraphrasing](https://www.sciencedirect.com/science/article/pii/S0893608022000260)
 - [AAAI] [Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement](https://arxiv.org/pdf/2112.10991.pdf)
 
