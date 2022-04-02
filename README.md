@@ -33,23 +33,26 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [Multilingual Simultaneous Speech Translation](https://arxiv.org/pdf/2203.14835.pdf)
+- [arXiv] [Speech Segmentation Optimization using Segmented Bilingual Speech Corpus for End-to-end Speech Translation](https://arxiv.org/pdf/2203.15479.pdf)
 - [arXiv] [Leveraging unsupervised and weakly-supervised data to improve direct speech-to-speech translation](https://arxiv.org/pdf/2203.13339.pdf)
 - [arXiv] [Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages](https://arxiv.org/pdf/2201.11391.pdf)
-- [arXiv] [Tackling data scarcity in speech translation using zero-shot multilingual machine translation techniques](https://arxiv.org/pdf/2201.11172.pdf)
 - [arXiv] [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](https://arxiv.org/pdf/2201.03713.pdf)
 - [arXiv] [SHAS: Approaching optimal Segmentation for End-to-End Speech Translation](https://arxiv.org/pdf/2202.04774.pdf)
 - [ACL] [Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation](https://arxiv.org/abs/2203.08757)
+- [ACL] [UniST: Unified End-to-end Model for Streaming and Non-streaming Speech Translation](https://arxiv.org/pdf/2109.07368.pdf)
+- [ACL] [Direct speech-to-speech translation with discrete units](https://arxiv.org/pdf/2107.05604.pdf)
+- [ACL] [STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation](https://arxiv.org/pdf/2203.10426.pdf)
+- [ICASSP] [Tackling data scarcity in speech translation using zero-shot multilingual machine translation techniques](https://arxiv.org/pdf/2201.11172.pdf)
 - [NN] [Improving data augmentation for low resource speech-to-text translation with diverse paraphrasing](https://www.sciencedirect.com/science/article/pii/S0893608022000260)
 - [AAAI] [Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement](https://arxiv.org/pdf/2112.10991.pdf)
 
 ### 2021
 - [arXiv] [Textless Speech-to-Speech Translation on Real Data](https://arxiv.org/pdf/2112.08352.pdf)
 - [arXiv] [Translatotron 2: Robust direct speech-to-speech translation](https://arxiv.org/pdf/2107.08661.pdf)
-- [arXiv] [Direct speech-to-speech translation with discrete units](https://arxiv.org/pdf/2107.05604.pdf)
 - [arXiv] [Efficient Transformer for Direct Speech Translation](https://arxiv.org/pdf/2107.03069.pdf)
 - [arXiv] [Zero-shot Speech Translation](https://arxiv.org/pdf/2107.06010.pdf)
-- [arXiv] [UniST: Unified End-to-end Model for Streaming and Non-streaming Speech Translation](https://arxiv.org/pdf/2109.07368.pdf)
-- [arXiv] [Direct simultaneous speech to speech translation](https://arxiv.org/pdf/2110.08250.pdf)
+- [arXiv] [Direct Simultaneous Speech-to-Speech Translation with Variational Monotonic Multihead Attention](https://arxiv.org/pdf/2110.08250.pdf)
 - [ASRU] [Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates](https://arxiv.org/pdf/2109.12804.pdf)
 - [ASRU] [Assessing Evaluation Metrics for Speech-to-Speech Translation](https://arxiv.org/pdf/2110.13877.pdf)
 - [ASRU] [Enabling Zero-shot Multilingual Spoken Language Translation with Language-Specific Encoders and Decoders](https://arxiv.org/pdf/2011.01097.pdf)
