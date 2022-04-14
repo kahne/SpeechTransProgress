@@ -33,6 +33,7 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [GigaST: A 10,000-hour Pseudo Speech Translation Corpus](https://arxiv.org/pdf/2204.03939.pdf)
 - [arXiv] [Multilingual Simultaneous Speech Translation](https://arxiv.org/pdf/2203.14835.pdf)
 - [arXiv] [Speech Segmentation Optimization using Segmented Bilingual Speech Corpus for End-to-end Speech Translation](https://arxiv.org/pdf/2203.15479.pdf)
 - [arXiv] [Leveraging unsupervised and weakly-supervised data to improve direct speech-to-speech translation](https://arxiv.org/pdf/2203.13339.pdf)
