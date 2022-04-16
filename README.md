@@ -33,6 +33,8 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation](https://arxiv.org/pdf/2204.02470.pdf)
+- [arXiv] [Large-Scale Streaming End-to-End Speech Translation with Neural Transducers](https://arxiv.org/pdf/2204.05352.pdf)
 - [arXiv] [GigaST: A 10,000-hour Pseudo Speech Translation Corpus](https://arxiv.org/pdf/2204.03939.pdf)
 - [arXiv] [Multilingual Simultaneous Speech Translation](https://arxiv.org/pdf/2203.14835.pdf)
 - [arXiv] [Speech Segmentation Optimization using Segmented Bilingual Speech Corpus for End-to-end Speech Translation](https://arxiv.org/pdf/2203.15479.pdf)
