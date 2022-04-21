@@ -33,6 +33,7 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [Does Simultaneous Speech Translation need Simultaneous Models?](https://arxiv.org/pdf/2204.03783.pdf)
 - [arXiv] [Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation](https://arxiv.org/pdf/2204.02470.pdf)
 - [arXiv] [Large-Scale Streaming End-to-End Speech Translation with Neural Transducers](https://arxiv.org/pdf/2204.05352.pdf)
 - [arXiv] [GigaST: A 10,000-hour Pseudo Speech Translation Corpus](https://arxiv.org/pdf/2204.03939.pdf)
