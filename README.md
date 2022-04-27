@@ -33,6 +33,7 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [Blockwise Streaming Transformer for Spoken Language Understanding and Simultaneous Speech Translation](https://arxiv.org/pdf/2204.08920.pdf)
 - [arXiv] [Does Simultaneous Speech Translation need Simultaneous Models?](https://arxiv.org/pdf/2204.03783.pdf)
 - [arXiv] [Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation](https://arxiv.org/pdf/2204.02470.pdf)
 - [arXiv] [Large-Scale Streaming End-to-End Speech Translation with Neural Transducers](https://arxiv.org/pdf/2204.05352.pdf)
