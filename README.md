@@ -25,6 +25,7 @@ End-to-End Speech Translation Progress
 | [LibriVoxDeEn](https://arxiv.org/pdf/1910.07924.pdf)                                                          |                                                                             De -> En                                                                              |     Text      |   110h   |                                                                                                    CC BY-NC-SA 4.0 |
 | [Prabhupadavani](https://arxiv.org/pdf/2201.11391.pdf) |                     parallel among En, Fr, De, Gu, Hi, Hu, Id, It, Lv, Lt, Ne, Fa, Pl, Pt, Ru, Sl, Sk, Es, Se, Ta, Te, Tr, Bg, Hr, Da and Nl                      |     Text |   94h    |  |
 | [BSTC](https://arxiv.org/pdf/2104.03575.pdf)                                                                  |                                                                             Zh -> En                                                                              |     Text      |   68h    |                                                                                                                    |
+| [LibriS2S](https://arxiv.org/pdf/2204.10593.pdf)                                                          |                                                                             De <-> En                                                                              |     Text & Speech      |   52h/57h   |                                                                                                    CC BY-NC-SA 4.0 |
 
 ## Toolkit
 * [ESPNet-ST](https://github.com/espnet/espnet)
@@ -33,6 +34,7 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [LibriS2S: A German-English Speech-to-Speech Translation Corpus](https://arxiv.org/pdf/2204.10593.pdf)
 - [arXiv] [Blockwise Streaming Transformer for Spoken Language Understanding and Simultaneous Speech Translation](https://arxiv.org/pdf/2204.08920.pdf)
 - [arXiv] [Does Simultaneous Speech Translation need Simultaneous Models?](https://arxiv.org/pdf/2204.03783.pdf)
 - [arXiv] [Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation](https://arxiv.org/pdf/2204.02470.pdf)
