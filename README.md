@@ -46,6 +46,9 @@ End-to-End Speech Translation Progress
 - [arXiv] [Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages](https://arxiv.org/pdf/2201.11391.pdf)
 - [arXiv] [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](https://arxiv.org/pdf/2201.03713.pdf)
 - [arXiv] [SHAS: Approaching optimal Segmentation for End-to-End Speech Translation](https://arxiv.org/pdf/2202.04774.pdf)
+- [NAACL] [Textless Speech-to-Speech Translation on Real Data](https://arxiv.org/pdf/2112.08352.pdf)
+- [ICML] [Revisiting End-to-End Speech-to-Text Translation From Scratch](https://arxiv.org/pdf/2206.04571.pdf)
+- [ICML] [Translatotron 2: Robust direct speech-to-speech translation](https://arxiv.org/pdf/2107.08661.pdf)
 - [ACL] [Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation](https://arxiv.org/abs/2203.08757)
 - [ACL] [UniST: Unified End-to-end Model for Streaming and Non-streaming Speech Translation](https://arxiv.org/pdf/2109.07368.pdf)
 - [ACL] [Direct speech-to-speech translation with discrete units](https://arxiv.org/pdf/2107.05604.pdf)
@@ -56,8 +59,6 @@ End-to-End Speech Translation Progress
 - [AAAI] [Regularizing End-to-End Speech Translation with Triangular Decomposition Agreement](https://arxiv.org/pdf/2112.10991.pdf)
 
 ### 2021
-- [arXiv] [Textless Speech-to-Speech Translation on Real Data](https://arxiv.org/pdf/2112.08352.pdf)
-- [arXiv] [Translatotron 2: Robust direct speech-to-speech translation](https://arxiv.org/pdf/2107.08661.pdf)
 - [arXiv] [Efficient Transformer for Direct Speech Translation](https://arxiv.org/pdf/2107.03069.pdf)
 - [arXiv] [Zero-shot Speech Translation](https://arxiv.org/pdf/2107.06010.pdf)
 - [arXiv] [Direct Simultaneous Speech-to-Speech Translation with Variational Monotonic Multihead Attention](https://arxiv.org/pdf/2110.08250.pdf)
