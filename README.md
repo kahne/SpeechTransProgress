@@ -34,6 +34,7 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [M-Adapter: Modality Adaptation for End-to-End Speech-to-Text Translation](https://arxiv.org/pdf/2207.00952.pdf)
 - [arXiv] [LibriS2S: A German-English Speech-to-Speech Translation Corpus](https://arxiv.org/pdf/2204.10593.pdf)
 - [arXiv] [Blockwise Streaming Transformer for Spoken Language Understanding and Simultaneous Speech Translation](https://arxiv.org/pdf/2204.08920.pdf)
 - [arXiv] [Does Simultaneous Speech Translation need Simultaneous Models?](https://arxiv.org/pdf/2204.03783.pdf)
