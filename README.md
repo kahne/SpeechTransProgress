@@ -70,6 +70,7 @@ End-to-End Speech Translation Progress
 - [INTERSPEECH] [Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation](https://arxiv.org/pdf/2104.14470.pdf)
 - [EMNLP] [Speechformer: Reducing Information Loss in Direct Speech Translation](https://arxiv.org/pdf/2109.04574.pdf)
 - [EMNLP] [Is "moby dick" a Whale or a Bird? Named Entities and Terminology in Speech Translation](https://arxiv.org/pdf/2109.07439.pdf)
+- [EMNLP] [Mutual-Learning Improves End-to-End Speech Translation](https://aclanthology.org/2021.emnlp-main.325.pdf)
 - [INTERSPEECH] [End-to-end Speech Translation via Cross-modal Progressive Training](https://arxiv.org/pdf/2104.10380.pdf)
 - [INTERSPEECH] [CoVoST 2 and Massively Multilingual Speech-to-Text Translation](https://arxiv.org/pdf/2007.10310.pdf)
 - [INTERSPEECH] [The Multilingual TEDx Corpus for Speech Recognition and Translation](https://arxiv.org/pdf/2102.01757.pdf)
