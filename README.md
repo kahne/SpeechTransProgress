@@ -34,6 +34,7 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data](https://arxiv.org/pdf/2212.09982.pdf)
 - [arXiv] [WACO: Word-Aligned Contrastive Learning for Speech Translation](https://arxiv.org/pdf/2212.09359.pdf)
 - [arXiv] [AdaTranS: Adapting with Boundary-based Shrinking for End-to-End Speech Translation](https://arxiv.org/pdf/2212.08911.pdf)
 - [arXiv] [Attention as a guide for Simultaneous Speech Translation](https://arxiv.org/pdf/2212.07850.pdf)
