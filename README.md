@@ -34,6 +34,14 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [WACO: Word-Aligned Contrastive Learning for Speech Translation](https://arxiv.org/pdf/2212.09359.pdf)
+- [arXiv] [AdaTranS: Adapting with Boundary-based Shrinking for End-to-End Speech Translation](https://arxiv.org/pdf/2212.08911.pdf)
+- [arXiv] [Attention as a guide for Simultaneous Speech Translation](https://arxiv.org/pdf/2212.07850.pdf)
+- [arXiv] [BLASER: A Text-Free Speech-to-Speech Translation Evaluation Metric](https://arxiv.org/pdf/2212.08486.pdf)
+- [arXiv] [Direct Speech-to-speech Translation without Textual Annotation using Bottleneck Features](https://arxiv.org/pdf/2212.05805.pdf)
+- [arXiv] [M3ST: Mix at Three Levels for Speech Translation](https://arxiv.org/pdf/2212.03657.pdf)
+- [arXiv] [Improving End-to-end Speech Translation by Leveraging Auxiliary Speech and Text Data](https://arxiv.org/pdf/2212.01778.pdf)
+- [arXiv] [ArzEn-ST: A Three-way Speech Translation Corpus for Code-Switched Egyptian Arabic - English](https://arxiv.org/pdf/2211.12000.pdf)
 - [arXiv] [M-Adapter: Modality Adaptation for End-to-End Speech-to-Text Translation](https://arxiv.org/pdf/2207.00952.pdf)
 - [arXiv] [LibriS2S: A German-English Speech-to-Speech Translation Corpus](https://arxiv.org/pdf/2204.10593.pdf)
 - [arXiv] [Blockwise Streaming Transformer for Spoken Language Understanding and Simultaneous Speech Translation](https://arxiv.org/pdf/2204.08920.pdf)
@@ -47,9 +55,11 @@ End-to-End Speech Translation Progress
 - [arXiv] [Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages](https://arxiv.org/pdf/2201.11391.pdf)
 - [arXiv] [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](https://arxiv.org/pdf/2201.03713.pdf)
 - [arXiv] [SHAS: Approaching optimal Segmentation for End-to-End Speech Translation](https://arxiv.org/pdf/2202.04774.pdf)
+- [INTERSPEECH] [Exploring Continuous Integrate-and-Fire for Adaptive Simultaneous Speech Translation](https://arxiv.org/pdf/2204.09595.pdf)
 - [NAACL] [Textless Speech-to-Speech Translation on Real Data](https://arxiv.org/pdf/2112.08352.pdf)
 - [ICML] [Revisiting End-to-End Speech-to-Text Translation From Scratch](https://arxiv.org/pdf/2206.04571.pdf)
 - [ICML] [Translatotron 2: Robust direct speech-to-speech translation](https://arxiv.org/pdf/2107.08661.pdf)
+- [ACL] [Learning When to Translate for Streaming Speech](https://aclanthology.org/2022.acl-long.50.pdf)
 - [ACL] [Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation](https://arxiv.org/abs/2203.08757)
 - [ACL] [UniST: Unified End-to-end Model for Streaming and Non-streaming Speech Translation](https://arxiv.org/pdf/2109.07368.pdf)
 - [ACL] [Direct speech-to-speech translation with discrete units](https://arxiv.org/pdf/2107.05604.pdf)
