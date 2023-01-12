@@ -34,6 +34,7 @@ End-to-End Speech Translation Progress
 
 ## Paper
 ### 2022
+- [arXiv] [Generating Synthetic Speech from SpokenVocab for Speech Translation](https://arxiv.org/pdf/2210.08174.pdf)
 - [arXiv] [Joint Speech Transcription and Translation: Pseudo-Labeling with Out-of-Distribution Data](https://arxiv.org/pdf/2212.09982.pdf)
 - [arXiv] [WACO: Word-Aligned Contrastive Learning for Speech Translation](https://arxiv.org/pdf/2212.09359.pdf)
 - [arXiv] [AdaTranS: Adapting with Boundary-based Shrinking for End-to-End Speech Translation](https://arxiv.org/pdf/2212.08911.pdf)
@@ -56,6 +57,7 @@ End-to-End Speech Translation Progress
 - [arXiv] [Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages](https://arxiv.org/pdf/2201.11391.pdf)
 - [arXiv] [CVSS Corpus and Massively Multilingual Speech-to-Speech Translation](https://arxiv.org/pdf/2201.03713.pdf)
 - [arXiv] [SHAS: Approaching optimal Segmentation for End-to-End Speech Translation](https://arxiv.org/pdf/2202.04774.pdf)
+- [EMNLP Findings] [RedApt: An Adaptor for WAV2VEC 2 Encoding Faster and Smaller Speech Translation without Quality Compromise](https://arxiv.org/pdf/2210.08475.pdf)
 - [INTERSPEECH] [Exploring Continuous Integrate-and-Fire for Adaptive Simultaneous Speech Translation](https://arxiv.org/pdf/2204.09595.pdf)
 - [NAACL] [Textless Speech-to-Speech Translation on Real Data](https://arxiv.org/pdf/2112.08352.pdf)
 - [ICML] [Revisiting End-to-End Speech-to-Text Translation From Scratch](https://arxiv.org/pdf/2206.04571.pdf)
