@@ -35,6 +35,9 @@ End-to-End Speech Translation Progress
 ## Paper
 
 ### 2023
+- [arXiv] [Tuning Large language model for End-to-end Speech Translation](https://arxiv.org/pdf/2310.02050.pdf)
+- [arXiv] [Improving Speech Translation by Cross-Modal Multi-Grained Contrastive Learning](https://arxiv.org/pdf/2304.10309.pdf)
+- [ICCV] [MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_MixSpeech_Cross-Modality_Self-Learning_with_Audio-Visual_Stream_Mixup_for_Visual_Speech_ICCV_2023_paper.pdf)
 - [INTERSPEECH] [MuAViC: A Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation](https://www.isca-speech.org/archive/pdfs/interspeech_2023/anwar23_interspeech.pdf)
 - [INTERSPEECH] [Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer](https://www.isca-speech.org/archive/pdfs/interspeech_2023/duquenne23_interspeech.pdf)
 - [INTERSPEECH] [Joint Speech Translation and Named Entity Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2023/gaido23_interspeech.pdf)
@@ -61,6 +64,8 @@ End-to-End Speech Translation Progress
 - [ACL Findings] [DUB: Discrete Unit Back-translation for Speech Translation](https://aclanthology.org/2023.findings-acl.447.pdf)
 - [ACL Findings] [End-to-End Simultaneous Speech Translation with Differentiable Segmentation](https://aclanthology.org/2023.findings-acl.485.pdf)
 - [ACL Findings] [Implicit Memory Transformer for Computationally Efficient Simultaneous Speech Translation](https://aclanthology.org/2023.findings-acl.816.pdf)
+- [ICASSP] [Textless Direct Speech-to-Speech Translation with Discrete Speech Representation](https://ieeexplore.ieee.org/abstract/document/10096797)
+- [ICASSP] [M3ST: Mix at Three Levels for Speech Translation](https://ieeexplore.ieee.org/abstract/document/10095090)
 
 ### 2022
 - [arXiv] [Generating Synthetic Speech from SpokenVocab for Speech Translation](https://arxiv.org/pdf/2210.08174.pdf)
